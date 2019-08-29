@@ -1,7 +1,5 @@
-numbers = [1, 2, 3] 
-
-def square_array(numbers)
-  new_numbers = []
+def square_array(array)
+  new_array = []
   counter = 0
   
   while counter < array.length do
