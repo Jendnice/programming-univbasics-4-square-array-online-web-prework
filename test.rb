@@ -1,13 +1,13 @@
-square_array(numbers)
+# square_array(numbers)
 
-def square_array(array)
-  numbers = [1, 2, 3]
-square_array(numbers)
-new_numbers = [square_array(numbers)]
-while square_array(numbers) do 
-  puts new_numbers
-end
-end
+# def square_array(array)
+#   numbers = [1, 2, 3]
+# square_array(numbers)
+# new_numbers = [square_array(numbers)]
+# while square_array(numbers) do 
+#   puts new_numbers
+# end
+# end
 
 def square_array(array)
   counter = 0
